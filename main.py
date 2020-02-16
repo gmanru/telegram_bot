@@ -1,7 +1,7 @@
 from telegram import Bot, Update
 from telegram.ext import Updater, MessageHandler, Filters
 
-TG_TOKEN = '1096271495:AAHt1s0CGlQSbdwv03G3AypSeW_n7mEXcR4'
+TG_TOKEN = 'ччч'
 
 def message_handler(bot: Bot, update: Update):
     user = update.effective_user
